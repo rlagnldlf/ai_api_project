@@ -16,3 +16,6 @@
 - **html**
 - **css**
 - **javascript**
+
+### 개발 현황
+- 검색창 ![initial](https://github.com/rlagnldlf/ai_api_project/assets/136410965/8970b45e-822c-4e01-9c46-0837084acebf)
