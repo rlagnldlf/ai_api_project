@@ -19,3 +19,4 @@
 
 ### 개발 현황
 - 검색창 ![initial](https://github.com/rlagnldlf/ai_api_project/assets/136410965/8970b45e-822c-4e01-9c46-0837084acebf)
+- 결과창 ![initial](https://github.com/rlagnldlf/ai_api_project/assets/136410965/dcca5300-3e37-4559-b658-fe8e820820b1)
