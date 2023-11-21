@@ -13,6 +13,6 @@
 - 조원 - 유상 - 이미지 수집
 
 ### 개발 환경
--html
--css
--javascript
+- html
+- css
+- **javascript**
