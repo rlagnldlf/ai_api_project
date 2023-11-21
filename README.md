@@ -15,4 +15,4 @@
 ### 개발 환경
 -html
 -css
-**javascript**
+-javascript
