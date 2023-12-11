@@ -18,5 +18,6 @@
 - **javascript**
 
 ### 개발 현황
-- 결과창 (https://github.com/rlagnldlf/ai_api_project/assets/136410965/358b3c83-bad4-4506-a8db-1ac2a57a3e91)
+- 결과창 ![1128 결과](https://github.com/rlagnldlf/ai_api_project/assets/136410965/6a2fb132-fcd2-4438-9359-c744eb93b077)
+
 
